@@ -1,0 +1,9 @@
+{
+    "name": "v4api",
+    "db": {
+      "hostname": "202.157.183.124",
+      "username": "callcenter",
+      "password": "ca11c3nt3r",
+      "database": "callcenter2"
+    }
+}
